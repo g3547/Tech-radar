@@ -19,7 +19,6 @@ Confluence,Adopt,Tools,False ,база знаний
 TrankBased Development,Assess,Techniques,TRUE,сейчас одна из команд работает с данным подходом. в будущем можем взять на вооружение
 shift left testing,Adopt,Techniques,False ,практика есть в других командах. готовы перенимать
 3 амиго,Adopt,Techniques,TRUE,
-Планирование релизов,Adopt,Techniques,False ,
 Kanban метод,Adopt,Techniques,TRUE,хотим придти в будущем к нему
 daily,Adopt,Techniques,False ,
 Load testing,Assess,Techniques,False ,есть экспертиза внутри компании. потихоньку утаскиваем в свои команды
