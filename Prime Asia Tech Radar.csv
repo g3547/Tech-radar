@@ -4,7 +4,7 @@ Kibana,Adopt,Tools,False ,работаем с логами сервисов
 Grafana,Adopt,Tools,False ,работаем с метриками сервисов
 PL/SQL Developer,Adopt,Tools,False ,раобтаем с БД
 Gitlab,Adopt,Tools,TRUE,
-Git,Hold,Tools,False ,
+Git,Adopt,Tools,False ,
 Maven,Adopt,Tools,False ,Используем при автоматизации тест-кейсов
 TestNG,Adopt,Tools,False ,Используем при автоматизации тест-кейсов
 Jenkins,Adopt,Tools,False ,
