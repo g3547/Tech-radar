@@ -1,0 +1,184 @@
+[
+  {
+    "name": "Allure Test OPS",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "False",
+    "description": "наша система тест менеджемента"
+  },
+  {
+    "name": "Kibana",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "False",
+    "description": "работаем с логами сервисов"
+  },
+  {
+    "name": "Grafana",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "False",
+    "description": "работаем с метриками сервисов"
+  },
+  {
+    "name": "PL/SQL Developer",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "False",
+    "description": "работаем с БД"
+  },
+  {
+    "name": "Gitlab",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "TRUE",
+    "description": null
+  },
+  {
+    "name": "Git",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "False",
+    "description": null
+  },
+  {
+    "name": "Maven",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "False",
+    "description": "Используем при автоматизации тест-кейсов"
+  },
+  {
+    "name": "TestNG",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "False",
+    "description": "Используем при автоматизации тест-кейсов"
+  },
+  {
+    "name": "Jenkins",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "False",
+    "description": null
+  },
+  {
+    "name": "Jira",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "False",
+    "description": null
+  },
+  {
+    "name": "Vault",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "False",
+    "description": null
+  },
+  {
+    "name": "SoapUI",
+    "ring": "Hold",
+    "quadrant": "Tools",
+    "isNew": "False",
+    "description": "это древнее зло ещё попадается в некоторых командах"
+  },
+  {
+    "name": "Postman",
+    "ring": "Hold",
+    "quadrant": "Tools",
+    "isNew": "False",
+    "description": "для тестирования API"
+  },
+  {
+    "name": "Swagger",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "False",
+    "description": null
+  },
+  {
+    "name": "Confluence",
+    "ring": "Adopt",
+    "quadrant": "Tools",
+    "isNew": "False",
+    "description": "база знаний"
+  },
+  {
+    "name": "shift left testing",
+    "ring": "Adopt",
+    "quadrant": "Techniques",
+    "isNew": "False",
+    "description": "практика есть в других командах. готовы перенимать"
+  },
+  {
+    "name": "Kanban метод",
+    "ring": "Adopt",
+    "quadrant": "Techniques",
+    "isNew": "TRUE",
+    "description": "хотим придти в будущем к нему"
+  },
+  {
+    "name": "daily",
+    "ring": "Adopt",
+    "quadrant": "Techniques",
+    "isNew": "False",
+    "description": null
+  },
+  {
+    "name": "Load testing",
+    "ring": "Assess",
+    "quadrant": "Techniques",
+    "isNew": "False",
+    "description": "есть экспертиза внутри компании. потихоньку утаскиваем в свои команды"
+  },
+  {
+    "name": "Kafka",
+    "ring": "Adopt",
+    "quadrant": "Platforms",
+    "isNew": "False",
+    "description": null
+  },
+  {
+    "name": "Docker",
+    "ring": "Adopt",
+    "quadrant": "Platforms",
+    "isNew": "False",
+    "description": null
+  },
+  {
+    "name": "Cassandra",
+    "ring": "Adopt",
+    "quadrant": "Platforms",
+    "isNew": "False",
+    "description": null
+  },
+  {
+    "name": "Oracle",
+    "ring": "Adopt",
+    "quadrant": "Platforms",
+    "isNew": "False",
+    "description": null
+  },
+  {
+    "name": "PostgreSQL",
+    "ring": "Adopt",
+    "quadrant": "Platforms",
+    "isNew": "False",
+    "description": null
+  },
+  {
+    "name": "Java 11",
+    "ring": "Adopt",
+    "quadrant": "Programming Languages and Frameworks",
+    "isNew": "False",
+    "description": null
+  },
+  {
+    "name": "Spring",
+    "ring": "Adopt",
+    "quadrant": "Programming Languages and Frameworks",
+    "isNew": "False",
+    "description": null
+  }
+]
